@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1714499751 source:c:\users\user\onedrive\desktop\last\binary\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<algorithm>
+	<chrono>
+
